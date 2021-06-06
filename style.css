@@ -44,6 +44,76 @@ body {
 	object-fit: contain;
 }
 
+.btn:nth-child(3) {
+	background-image: url(http://www.geocities.ws/clangrupo4/imagenes/f1.gif);
+	object-fit: contain;
+}
+.btn:nth-child(4) {
+	background-image: url(https://tse1.mm.bing.net/th?id=OIP.uAwxuiox7ggH1a7vqftM1wHaGz&pid=Api&P=0&w=158&h=145);
+	object-fit: contain;
+}
+.btn:nth-child(5) {
+	background-image: url(https://i0.wp.com/cartocritica.org.mx/wp-content/uploads/2014/09/Icono_Viento.jpg?resize=168%2C130&ssl=1);
+	object-fit: contain;
+}
+.btn:nth-child(6) {
+	background-image: url(https://render.fineartamerica.com/images/rendered/small/print/images/artworkimages/square/1/corona-del-mar-sunset-eddie-yerkish.jpg);
+	object-fit: contain;
+}
+.btn:nth-child(7) {
+	background-image: url(https://todoanimales.org/imagenes/rana-comun-rana-temporaria.png);
+	object-fit: contain;
+} 	
+.btn:nth-child(8) {
+	background-image: url(http://funlava.com/wp-content/uploads/2013/07/bengal-tiger_1600x1200-150x150.jpg);
+	object-fit: contain;
+}
+
+.btn:nth-child(9) {
+	background-image: url(https://tse1.mm.bing.net/th?id=OIP.ioy6WuUBgWMgIFz95LnD4AAAAA&pid=Api&P=0&w=300&h=300);
+	object-fit: contain;
+}
+
+.btn:nth-child(10) {
+	background-image: url(https://i.pinimg.com/originals/5c/ba/c4/5cbac45077ff8c19286648b10f49a4ad.jpg);
+	object-fit: contain;
+}
+
+.btn:nth-child(11) {
+	background-image: url(https://definicion.de/wp-content/uploads/2011/05/tormentaelectrica.jpg);
+	object-fit: contain;
+}
+
+.btn:nth-child(12) {
+	background-image: url(https://tse3.mm.bing.net/th?id=OIP.IjgQEocHxPmyylDXujsyuQAAAA&pid=Api&P=0&w=300&h=300);
+	object-fit: contain;
+}
+
+.btn:nth-child(13) {
+	background-image: url(https://tse1.mm.bing.net/th?id=OIP.oyQcekPNY4fiXAlmGzBXRAAAAA&pid=Api&P=0&w=180&h=151);
+	object-fit: contain;
+}
+
+.btn:nth-child(14) {
+	background-image: url(https://cdn.xxl.thumbs.canstockphoto.com/canstock11224663.jpg);
+	object-fit: contain;
+}
+
+.btn:nth-child(15) {
+	background-image: url(https://cdn.xxl.thumbs.canstockphoto.com/canstock16156387.jpg);
+	object-fit: contain;
+}
+.btn:nth-child(16) {
+	background-image: url(https://www.teleadhesivo.com/es/img/fom423_1-jpg/folder/products-detalle-muestras-pequenas/fotomurales-en-lo-profundo-del-bosque.jpg);
+	object-fit: contain;
+}
+.btn:nth-child(17) {
+	background-image: url(https://esther8malaga.webcindario.com/pajaros/VERDON.jpg);
+	object-fit: contain;
+}
+
+
+
 .btn:focus {
 	outline:none
 }
